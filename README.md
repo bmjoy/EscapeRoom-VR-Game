@@ -5,9 +5,9 @@
  
  
 # Screenshot
-![](./assets/example1.png)
-![](./assets/example2.png)
-![](./assets/example3.png)
-![](./assets/example4.png)
-![](./assets/example5.png)
+![](./images/example1.png)
+![](./images/example2.png)
+![](./images/example3.png)
+![](./images/example4.png)
+![](./images/example5.png)
  
